@@ -1,0 +1,23 @@
+# Azure Identity and Core Credentials
+azure-identity==1.19.0
+
+# Azure AI Foundry SDK Framework Ecosystem
+azure-ai-projects==1.0.0b3
+azure-ai-inference==1.0.0b2
+
+# Cognitive Search / Azure AI Search Data Plane
+azure-search-documents==11.6.0
+
+# Document Intelligence / Content Understanding
+azure-ai-documentintelligence==1.0.2
+
+# Production App Instrumentation & Observability Tools
+opentelemetry-api==1.28.0
+opentelemetry-sdk==1.28.0
+opentelemetry-instrumentation==0.49b0
+azure-monitor-opentelemetry==1.6.4
+
+# Infrastructure Helpers
+python-dotenv==1.0.1
+pytest==8.3.5
+azure-ai-evaluation==1.0.0
